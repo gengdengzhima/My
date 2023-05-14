@@ -1,0 +1,14 @@
+body{
+    background-color: lightpink;
+    color: blueviolet;
+}
+
+hr{
+    height:3px;
+    width:10%;
+    border-style:none;
+    border-top-style:dashed;
+    border-color: darkgray;
+    border-width: 5px;
+
+}
